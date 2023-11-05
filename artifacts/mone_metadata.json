@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "money",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"integer.sol": "mone"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"integer.sol": {
+			"keccak256": "0x38de45702c8c6a78f070b08eb8f4816377d05c78aab3ddc062dfb4c49fad8902",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://0b3e2a2ef26b5f9b749cdc749cb6b2ba9f04adcbaf6ae0ed801afa58c5e545a7",
+				"dweb:/ipfs/QmUz9o2vMdyn2g3v1k9EZXkWEtrGLyrBX8fd6d598BKSMG"
+			]
+		}
+	},
+	"version": 1
+}
